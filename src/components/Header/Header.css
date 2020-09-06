@@ -1,0 +1,24 @@
+.headerPart{
+    background: url(headerImage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: inherit;
+    color: white;
+    margin: 0px;
+    padding: 40px 20px;
+}
+.headerPart > h1{
+    color:rgb(255, 186, 10);
+    font-size: 45px;
+    margin: 0px auto;
+}
+.headerPart > h3{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.headerPart p{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    font-size: 1rem;
+    color: lightgrey;
+}
